@@ -17,6 +17,10 @@ int main(int argc, char *argv[])
 	printf("hello world\n");
 	printf("hello dc20111\n");
 	printf("hello woleda\n");
+	int i = 0;
+	for(i=0;i<5;i++){
+		printf("%d\n",i);
+	}
 	return 0;
 }
 
